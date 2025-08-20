@@ -8,12 +8,12 @@
 
 
 
-``` <msr-button variant="default">Default</msr-button>
+```html <msr-button variant="default">Default</msr-button>
     <msr-button variant="primary">Primary</msr-button>
     <msr-button variant="success">Success</msr-button>
     <msr-button variant="neutral">Neutral</msr-button>
     <msr-button variant="warning">Warning</msr-button>
-    <msr-button variant="danger">Danger</msr-button>html
+    <msr-button variant="danger">Danger</msr-button>
 ```
 
  
