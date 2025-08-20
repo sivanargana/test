@@ -21,5 +21,14 @@
 <msr-button size="medium">Medium</msr-button>
 <msr-button size="large">Large</msr-button>
 ```
+### Outlined
+```html
+<msr-button variant="default" outline>Default</msr-button>
+<msr-button variant="primary" outline>Primary</msr-button>
+<msr-button variant="success" outline>Success</msr-button>
+<msr-button variant="neutral" outline>Neutral</msr-button>
+<msr-button variant="warning" outline>Warning</msr-button>
+<msr-button variant="danger" outline>Danger</msr-button>
+```
 
  
