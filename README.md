@@ -30,5 +30,11 @@
 <msr-button variant="warning" outline>Warning</msr-button>
 <msr-button variant="danger" outline>Danger</msr-button>
 ```
+### Pills
+```html
+<msr-button size="small" pill>Small</msr-button>
+<msr-button size="medium" pill>Medium</msr-button>
+<msr-button size="large" pill>Large</msr-button>
+```
 
  
