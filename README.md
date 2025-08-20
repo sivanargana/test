@@ -19,3 +19,6 @@ Some basic Git commands are:
     <msr-button variant="neutral">Neutral</msr-button>
     <msr-button variant="warning">Warning</msr-button>
     <msr-button variant="danger">Danger</msr-button>
+<button style="background:#007acc;color:white;padding:8px 16px;border:none;border-radius:6px;">
+  Click Me
+</button>
